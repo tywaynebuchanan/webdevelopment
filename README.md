@@ -1,5 +1,8 @@
 # Web development
-Collection of projects from my web dev course
+1. Collection of projects from my web dev course
+1. Each challenge has an html file with the source code
+1. eg. chal-1.html stands for the Challenge 1. 
+1. Instructions below each challenge tell what the challenge is about. 
 
 # Challenge 1
 Create a basic html layout
@@ -22,4 +25,15 @@ Correct the image tag
 1. it must touch the top of the page
 1. font size 72px
 1. use colors #fff and #281b2d
+
+# Challenge 6
+1. add the same class to both headers
+1. font size 48px
+1. use colors
+
+
+# Challenge 7
+1. add extra html text
+1. give the new element a class
+1. change font color to white
 
