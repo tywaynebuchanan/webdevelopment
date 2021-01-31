@@ -1,5 +1,8 @@
 # Web development
-Collection of projects from my web dev course
+1. Collection of projects from my web dev course
+1. Each challenge has an html file with the source code
+1. eg. chal-1.html stands for the Challenge 1. 
+1. Instructions below each challenge tell what the challenge is about. 
 
 # Challenge 1
 Create a basic html layout
