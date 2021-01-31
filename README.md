@@ -23,3 +23,8 @@ Correct the image tag
 1. font size 72px
 1. use colors #fff and #281b2d
 
+# Challenge 6
+1. add the same class to both headers
+1. font size 48px
+1. use colors
+
