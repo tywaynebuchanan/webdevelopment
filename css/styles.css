@@ -7,8 +7,16 @@ h1{
 	background: #281b2d;
 	color: #fff;
 	font-size: 72px;
-	padding-top: 25px;
-	padding-bottom: 25px;
+	padding: 25px 0;
 	margin-top: 0;
+
+}
+
+.titles{
+	font-size: 48px;
+	background: #281b2d;
+	border-bottom: 5px solid #00c54c ;
+	color: #fcd801;
+	padding: 20px;
 
 }
