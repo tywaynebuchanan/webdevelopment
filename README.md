@@ -31,3 +31,9 @@ Correct the image tag
 1. font size 48px
 1. use colors
 
+
+# Challenge 7
+1. add extra html text
+1. give the new element a class
+1. change font color to white
+
