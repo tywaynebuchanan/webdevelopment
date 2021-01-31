@@ -11,8 +11,8 @@ Add an ordered list and an unordered list to the website
 Correct the image tag
 
 # Challenge 4(part 1) 
-# create a sub folder for your css file
-# create a css file 
-# link your css file
-# add a line or two to make sure it is working 
-# set body margin to 0
+1. create a sub folder for your css file
+1. create a css file 
+1. link your css file
+1. add a line or two to make sure it is working 
+1. set body margin to 0
