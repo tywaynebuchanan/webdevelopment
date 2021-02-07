@@ -47,3 +47,6 @@ Correct the image tag
 1. Style Landing page
 1. Page can be found in csschal folder on repository
 
+# CSS Challenge 2
+1. Color Schemes with compound selector class selector
+
