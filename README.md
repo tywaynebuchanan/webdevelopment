@@ -63,7 +63,7 @@ Correct the image tag
 # CSS Challenge 5 - Blog Style
 1. Used what was learned with box model to properly space items on the page
 1. Page can be found by clicking the link [here](csschal/blog.html)
-1. Style Sheet can be found [blog-styles.css](blog-styles.css)
+1. Style Sheet can be found [blog-styles.css](csschal/blog-styles.css)
 
 
 
