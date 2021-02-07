@@ -42,7 +42,7 @@ Correct the image tag
 1. give the new element a class
 1. change font color to white
 
-# CSS Challeneg
+# CSS Challenge
 1. Create a Landing Page
 1. Style Landing page
 1. Page can be found in csschal folder on repository
