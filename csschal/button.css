@@ -1,0 +1,31 @@
+body{
+	height: 100vh;
+   margin: 0;
+   padding: 0;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-family: 'Lato', sans-serif;
+}
+
+.button
+{
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	background: #ef5839;
+	color: #ffff;
+	padding: 20px;
+	font-weight: 900;
+	font-size: 20px;
+
+
+}
+
+.button:hover,.button:focus{
+	font-size: 30px;
+	color: #2e354f;
+	background: #d4b44c;
+}
+
+
