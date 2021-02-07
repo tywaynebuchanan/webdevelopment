@@ -57,7 +57,8 @@ Correct the image tag
 
 # CSS Challenge 4 - Proper Spacing
 1. Used what was learned with box model to properly space items on the page
-1. Page can be found in [here](csschal/properspacing.html)
+1. Page can be found [here](csschal/properspacing.html)
+1. Style Sheet can be found [pro-styles.css](pro-styles.css)
 
 
 
