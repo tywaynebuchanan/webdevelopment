@@ -37,3 +37,17 @@ Correct the image tag
 1. give the new element a class
 1. change font color to white
 
+# Challenge 8
+1. add extra html text
+1. give the new element a class
+1. change font color to white
+
+# CSS Challenge
+1. Create a Landing Page
+1. Style Landing page
+1. Page can be found in csschal folder on repository
+
+# CSS Challenge 2
+1. Color Schemes with compound selector class selector
+1. Page can be found in csschal/colorscheme.html
+
