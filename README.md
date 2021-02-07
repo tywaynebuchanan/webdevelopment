@@ -49,4 +49,5 @@ Correct the image tag
 
 # CSS Challenge 2
 1. Color Schemes with compound selector class selector
+1. Page can be found in csschal/colorscheme.html
 
