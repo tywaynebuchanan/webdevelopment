@@ -16,7 +16,7 @@ h1 {
 	background: #2e354f;
 	margin: 0;
 	color: white;
-	/*text-align: center;*/
+	padding: 20px;
 }
 
 
@@ -24,8 +24,8 @@ h1 {
 	text-transform: uppercase;
 	border-bottom: 1px solid grey;
 	width: 100%;
-	margin: 0 auto;
-	padding: 10px;
+	padding-bottom: 10px;
+	font-size: 40px;
 
 
 }
@@ -41,6 +41,7 @@ h1 {
 	background: #ef5839;
 	display: inline-block;
 	padding: 20px;
+	margin: 30px;
 	}
 
 .btn:hover {
@@ -50,18 +51,7 @@ h1 {
 .container{
 
 	width: 450px;
-	margin: 0 auto;
+	margin: 100px auto;
 }
 
-/*.text{
-	margin-bottom: 100px;
-}*/
-.about-section{
-	margin-top: 100px;
-	margin-bottom: 100px;
-}
-
-.contact-section{
-	margin-bottom: 0px;
-}
 
