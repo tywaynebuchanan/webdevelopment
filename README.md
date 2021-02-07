@@ -53,7 +53,7 @@ Correct the image tag
 
 # CSS Challenge 3 - Super-size Button
 1. Use Psuedo Class to change the behaviour of the button
-1. Page can be found in (#csschal/buttons.html)
+1. Page can be found in [How do I get PTB-3?](#csschal/buttons.html)
 
 
 
