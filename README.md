@@ -51,3 +51,7 @@ Correct the image tag
 1. Color Schemes with compound selector class selector
 1. Page can be found in csschal/colorscheme.html
 
+# CSS Challenge 3 - Super-size Button
+1. Use Psuedo Class to change the behaviour of the button
+
+
