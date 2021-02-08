@@ -5,7 +5,8 @@
 1. Instructions below each challenge tell what the challenge is about. 
 
 # Challenge 1
-Create a basic html layout
+1.Create a basic html layout
+1. Click [here](chal-1.html) to see code
 
 # Challenge 2
 Add an ordered list and an unordered list to the website
