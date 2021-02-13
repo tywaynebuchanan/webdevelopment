@@ -74,6 +74,8 @@
 1. Page can be found by clicking the link [here](csschal/blog.html)
 1. Style Sheet can be found [blog-styles.css](csschal/blog-styles.css)
 
-
+# Javascript - Diary App
+1. Using Javascript, I was able to create a diary app to store diary entries. 
+1. Click [here](javascript/dairy.html) to view
 
 
