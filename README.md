@@ -76,6 +76,6 @@
 
 # Javascript - Diary App
 1. Using Javascript, I was able to create a diary app to store diary entries. 
-1. Click [here](javascript/dairy.html) to view
+1. Click [here](javascript/mydairy.html) to view
 
 
