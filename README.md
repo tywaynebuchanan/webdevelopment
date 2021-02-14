@@ -80,4 +80,10 @@
 1. Click [here](javascript/index.js) to view Javascript
 1. Click [here](javascript/diary.css) to view CSS used in the html
 
+# Javascript - Modal
+1. Using Javascript, I was able to create a modal using javascript. 
+1. Click [here](javascript/modal.html) to view the html
+1.  Click [here](javascript/modal.js) to view Javascript
+1. Click [here](javascript/modal.css) to view CSS used in the html
+
 
