@@ -37,20 +37,23 @@ const entriesNav = document.querySelector('.entries-nav');
 
 let counter = 1;
 function addEntry(event){
-	
+	event.preventDefault();
+	var date = new Date();
+	var n = date.toLocaleTimeString();
 	
 	const displayEntryButton = document.createElement('button');
-	event.preventDefault();
-	
 	const entryDiv = document.createElement('div');
+	const deleteButtton = document.createElement('button');
+
 	entryDiv.className = 'single-entry';
-	entryDiv.innerText = entryTextbox.value;
+	entryDiv.innerText = entryTextbox.value + " " + n;
 	entryDiv.style.display = 'none';
 	entriesSection.appendChild(entryDiv);
 	entryTextbox.value = "";
 	displayEntryButton.className = 'display-entry-button';
 	displayEntryButton.innerText = counter;
 	entriesNav.appendChild(displayEntryButton);
+	
 
 	displayEntryButton.addEventListener('click', function(){
 		const allEntries = document.querySelectorAll('.single-entry');
