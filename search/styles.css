@@ -1,0 +1,45 @@
+body{
+	/*text-align: center;*/
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+
+}
+
+.container{
+	max-width: 600px;
+	margin: 0 auto;
+	margin-top: 20px;
+	background-color: royalblue;
+}
+
+.header{
+	background: orange;
+	padding:20px;
+	display: flex;
+
+}
+
+
+label{
+	font-size: 24px;
+	font-weight: bold;
+	margin-right: 15px;
+}
+
+#results
+{
+	display: block;
+	padding: 10px;
+}
+
+#results .name
+{
+	background-color: white;
+	 margin-bottom: 10px;
+	list-style-type: none;
+	 width: 100%;
+    padding: 10px 0;
+    text-align: center;
+}
+
