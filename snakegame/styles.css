@@ -1,0 +1,74 @@
+body{
+
+	margin: 0;
+	padding: 10;
+	justify-content: center;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	background: #093045;
+	color: #ffff;
+}
+
+.container{
+
+	margin: 0 auto;
+	width: 300px;
+	border: 1px solid black;
+	height: 50vh;
+	border-radius: 25px;
+	border: 2px solid #EED369;
+}
+
+.wrapper{
+	max-width: 920px;
+	margin: 0 auto;
+	justify-content: left;
+}
+
+h1, h2{
+	margin: 0;
+}
+
+.grid{
+	display: flex;
+	flex-wrap: wrap;
+	width: 200px;
+	height: 200px;
+	border: 1px solid #ffff;
+	margin: 90px 20px 20px 50px; 
+
+
+}
+
+.square{
+	width: 20px;
+	height: 20px;
+	background: #f3f3f3;
+
+
+
+}
+
+button{
+	padding: 10px;
+	font-size: 20px;
+	margin: 10px;
+	background: #EED369 ;
+	border:1px solid #093045;
+	color: #383D3E;
+	cursor: pointer;
+	border-radius: 25px;
+}
+
+*:focus {
+    outline: 0 !important;
+}
+
+.snake{
+	background-color: #093045;
+}
+
+.apple{
+	background: #B00202;
+}
+
