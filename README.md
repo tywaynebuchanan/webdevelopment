@@ -86,4 +86,10 @@
 1.  Click [here](modal/modal.js) to view Javascript
 1. Click [here](modal/modal.css) to view CSS used in the html
 
+# Javascript - Search
+1. Using Javascript, I created a search box to search a list on the website 
+1. Click [here](search/index.html) to view the html
+1.  Click [here](search/index.js) to view Javascript
+1. Click [here](search/styles.css) to view CSS used in the html
+
 
