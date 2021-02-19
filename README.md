@@ -76,7 +76,7 @@
 
 # Javascript - Diary App
 1. Using Javascript, I was able to create a diary app to store diary entries. 
-1. Click [here](javascript/mydairy.html) to view the html
+1. Click [here](csschal/index.html) to view the html
 1. Click [here](javascript/index.js) to view Javascript
 1. Click [here](javascript/diary.css) to view CSS used in the html
 
@@ -91,5 +91,11 @@
 1. Click [here](search/index.html) to view the html
 1.  Click [here](search/index.js) to view Javascript
 1. Click [here](search/styles.css) to view CSS used in the html
+
+# Javascript - Dice Game
+1. Using Javascript, I created a dice game
+1. Click [here](dicegame/index.html) to view the html
+1.  Click [here](dicegame/index.js) to view Javascript
+1. Click [here](dicegame/styles.css) to view CSS used in the html
 
 
