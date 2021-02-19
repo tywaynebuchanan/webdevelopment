@@ -97,30 +97,42 @@ button:focus {
 
 }
 
-@media all and (max-height: 500px)
+@media (max-width:375px)
 {
 	
 	body{
-		/*padding: 50px;*/
-		height: 50vh;
-		/*justify-content: center;
-		align-items: center;*/
+		height: 5vh;
+		justify-content: center;
+		align-items: center;
 		background: #23E3C9;
 		font-family: 'Lato' , sans-serif;
-		margin: 0 auto;
+		
 	}
 
 	.container{
-		width: 150px;
+		width: 200px;
 		font-size: 10px;
-		padding: 50px;
+		/*padding:60px;*/
 		background: #f3f3f3;
+		margin-left:0;
 				
+	}
+
+	.players{
+		margin: 0 auto;
+	}
+
+	#player1 h1{
+		font-size: 30px;
+	}
+
+	#player2 h1{
+		font-size: 30px;
 	}
 
 	button {
     color: #fff;
-    padding: 8px 13px;
+    padding: 10px 15px;
     font-size: 20px;
     margin: 40px auto;
     border: none;
@@ -141,6 +153,11 @@ button:focus {
 
 }
 
+#message {
+	font-size: 40px;
+
+}
+
 .dice img{
 	width: 100%;
 	height: 100%;
@@ -156,7 +173,7 @@ button:focus {
 	float: right;
 	height: 5px;
 	cursor: pointer;
-	margin: 20px;
+	/*margin: 20px;*/
 
 }
 
