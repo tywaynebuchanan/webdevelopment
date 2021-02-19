@@ -97,7 +97,7 @@ button:focus {
 
 }
 
-@media (max-width:375px)
+@media all and (max-width:375px)
 {
 	
 	body{
