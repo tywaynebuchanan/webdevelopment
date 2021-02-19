@@ -98,4 +98,10 @@
 1.  Click [here](dicegame/index.js) to view Javascript
 1. Click [here](dicegame/styles.css) to view CSS used in the html
 
+# Javascript - Snake Game
+1. Using Javascript, I created a simple snake game
+1. Click [here](snakegame/index.html) to view the html
+1.  Click [here](snakegame/index.js) to view Javascript
+1. Click [here](snakegame/styles.css) to view CSS used in the html
+
 
