@@ -1,13 +1,14 @@
 const grid = document.querySelector('.grid');
 const startbtn = document.getElementById('resetbtn');
 const playerscore = document.getElementById('playerscore');
+const gameover = document.querySelector('.gameover');
 let squares = [];
 let currentSnake = [2,1,0];
 const maxlength = 10;
 let direction = 1;
 let ran_apples = 0;
 let score = 0;
-let intervalTime = 1000;
+let intervalTime = 500;
 let speed = 0.9;
 let timerId = 0;
 
@@ -28,6 +29,7 @@ createGrid();
 
 function startgame()
 {
+	gameover.style.display = "none";
 	currentSnake.forEach(index => squares[index].classList.remove('snake'));
 	squares[ran_apples].classList.remove('apple');
 	clearInterval(timerId);
@@ -35,7 +37,7 @@ function startgame()
 	score = 0;
 	playerscore.textContent = score;
 	direction = 1;
-	intervalTime = 1000;
+	intervalTime = 500;
 	apples();
 	currentSnake.forEach(index => squares[index].classList.add('snake'));
 	timerId = setInterval(move,intervalTime);
@@ -45,14 +47,24 @@ currentSnake.forEach(index => squares[index].classList.add('snake'));
 
 function move()
 {
+	 // if
+	 // 	(
+	 // 		currentSnake[0] === squares[tail]
+	 // 	){
+	 // 	gameover.style.display = 'block';
+	 // }
 	 if (
+
         (currentSnake[0] + maxlength >= 100 && direction === maxlength) || //if snake has hit bottom
         (currentSnake[0] % maxlength === 9 && direction === 1) || //if snake has hit right wall
         (currentSnake[0] % maxlength === 0 && direction === -1) || //if snake has hit left wall
         (currentSnake[0] - maxlength < 0 && direction === -maxlength) || //if snake has hit top
         squares[currentSnake[0] + direction].classList.contains('snake')
-    )
-    return clearInterval(timerId);
+    ){
+    	gameover.style.display = "block";
+	 	return clearInterval(timerId);
+	 	
+	 } 
 
 	const tail = currentSnake.pop();
 	squares[tail].classList.remove('snake');
