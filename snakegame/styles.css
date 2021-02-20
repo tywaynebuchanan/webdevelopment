@@ -14,7 +14,7 @@ body{
 	margin: 0 auto;
 	width: 400px;
 	border: 1px solid black;
-	height: 50vh;
+	height: 65vh;
 	border-radius: 25px;
 	border: 2px solid #EED369;
 }
@@ -72,3 +72,14 @@ button{
 	display: none;
 }
 
+@media all and (max-width:375px)
+{
+	.container{
+		width: 350px;
+		height: 50vh;
+	}
+
+	.grid{
+		margin: 15px 10px 10px 25px;
+	}
+}

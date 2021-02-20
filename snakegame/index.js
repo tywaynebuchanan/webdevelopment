@@ -47,14 +47,8 @@ currentSnake.forEach(index => squares[index].classList.add('snake'));
 
 function move()
 {
-	 // if
-	 // 	(
-	 // 		currentSnake[0] === squares[tail]
-	 // 	){
-	 // 	gameover.style.display = 'block';
-	 // }
+	
 	 if (
-
         (currentSnake[0] + maxlength >= 100 && direction === maxlength) || //if snake has hit bottom
         (currentSnake[0] % maxlength === 9 && direction === 1) || //if snake has hit right wall
         (currentSnake[0] % maxlength === 0 && direction === -1) || //if snake has hit left wall
