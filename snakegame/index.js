@@ -2,6 +2,12 @@ const grid = document.querySelector('.grid');
 const startbtn = document.getElementById('resetbtn');
 const playerscore = document.getElementById('playerscore');
 const gameover = document.querySelector('.gameover');
+
+const upBtn = document.getElementById('upBtn');
+const leftBtn = document.getElementById('leftBtn');
+const rightBtn = document.getElementById('rightBtn');
+const downBtn = document.getElementById('downBtn');
+
 let squares = [];
 let currentSnake = [2,1,0];
 const maxlength = 10;
@@ -117,3 +123,18 @@ function control(event){
 
 document.addEventListener('keyup',control);
 startbtn.addEventListener('click',startgame);
+upBtn.addEventListener('click', function(){
+	direction = -maxlength;
+})
+
+downBtn.addEventListener('click', function(){
+	direction = maxlength;
+})
+
+leftBtn.addEventListener('click', function(){
+	direction = -1;
+})
+
+rightBtn.addEventListener('click', function(){
+	direction = 1;
+})

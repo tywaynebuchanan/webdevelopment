@@ -70,6 +70,15 @@ button{
 
 .gameover{
 	display: none;
+	font-size: 50px;
+	margin: 0 auto;
+}
+
+.button{
+	display: none;
+}
+.buttons{
+	display: none;
 }
 
 @media all and (max-width:375px)
@@ -81,5 +90,15 @@ button{
 
 	.grid{
 		margin: 0 auto;
+	}
+
+	.button{
+		display: block;
+		margin: 0;
+	}
+
+	.buttons{
+		display: block;
+		margin: 0;
 	}
 }
