@@ -104,4 +104,6 @@
 1.  Click [here](snakegame/index.js) to view Javascript
 1. Click [here](snakegame/styles.css) to view CSS used in the html
 
+click [here](e-commerce/index.html)
+
 
