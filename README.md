@@ -106,4 +106,8 @@
 
 click [here](e-commerce/index.html)
 
+# Javascript/CSS/HTML 
+1. Using the above tools, I was able to create a reponsive splash page
+1. Click [here](bbq/index.html) to view site 
+
 
