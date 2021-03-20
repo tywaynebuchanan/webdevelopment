@@ -1,33 +1,16 @@
-// var javascriptGreeting = "Hello from Javascript"
-// console.log(javascriptGreeting)
-
-// var studentGreeting = "I am the student"
-// console.log(studentGreeting)
-
-// var myHeader = document.getElementById("myHeader");
-// console.log(myHeader);
-
-// myHeader.style.background = 'red';
-
-// myHeader.style.color = 'green';
-
-// var myTitle = document.getElementById("myTitle");
-// var count = 5;
-
-// var myButton = document.getElementById("btn");
-// console.log(myButton);
-
-// myButton.addEventListener("click",function(){
-
-// 	count += 5;
-// 	myButton.textContent = counter;
+	let html = document.getElementById('root');
+	html.innerHTML = ` <h1 class="title">My Personal Diary</h1>
+	<form id="entryForm">
+		<textarea class="entry-textbox" placeholder="Click here to start typing" required=""></textarea>
+	  <div>
+		   <button type="submit" class="button"> Submit</button> 
+	  </div>
+	  
+	</form>
 	
-
-// })
-
-
-//Diary JS Code
-//
+	<section id = "entries">
+		<div class="entries-nav"></div>
+	</section>`
 
 const entryForm = document.getElementById('entryForm');
 const entriesSection = document.querySelector('#entries');
@@ -37,6 +20,7 @@ const entriesNav = document.querySelector('.entries-nav');
 
 let counter = 1;
 function addEntry(event){
+
 	event.preventDefault();
 	var date = new Date();
 	var n = date.toLocaleTimeString();
