@@ -1,3 +1,5 @@
+<i>A curated list of awesome Github Profile READMEs</i>
+
 # Web development
 # Body of Work
 This is a collection of all the webapps and websites I have made throughout my career as a freelance developer
