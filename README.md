@@ -1,4 +1,4 @@
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
 # Web development
 # Body of Work
