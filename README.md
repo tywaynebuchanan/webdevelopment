@@ -5,7 +5,7 @@
 -This is a collection of all the webapps and websites I have made throughout my career as a freelance developer
 
 # CSS and Layout
-### `Tools(HTML,CSS)`
+<img src ="https://img.shields.io/badge/javascript-ES6-orange"/>
 1. Click [here](chal-8.html) to see code
 
 # Blog Style
