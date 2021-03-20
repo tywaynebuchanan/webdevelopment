@@ -6,7 +6,7 @@
 
 # CSS and Layout
 ### `Tools:` 
-<br/> <img src ="https://img.shields.io/badge/html-ver5-blue" <br/> <img src = "https://img.shields.io/badge/css-ver3-blue"/>
+<br/> <img src ="https://img.shields.io/badge/html-ver5-blue"/> <br/> <img src = "https://img.shields.io/badge/css-ver3-blue"/>
 1. Click [here](chal-8.html) to see code
 
 # Blog Style
