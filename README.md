@@ -1,111 +1,59 @@
-# Web development
-1. Collection of projects from my web dev course
-1. Each challenge has an html file with the source code
-1. eg. chal-1.html stands for the Challenge 1. 
-1. Instructions below each challenge tell what the challenge is about. 
+# Body of Work
+-This is a collection of all the webapps and websites I have made throughout my career as a freelance developer
 
-# Challenge 1
-1. Create a basic html layout
-1. Click [here](chal-1.html) to see code
-
-# Challenge 2
-1. Add an ordered list and an unordered list to the website
-1. Click [here](chal-2.html) to see code
-
-# Challenge 3 
-1. Correct the image tag
-1. Click [here](chal-3.html) to see code
-
-# Challenge 4
-1. create a sub folder for your css file
-1. create a css file 
-1. link your css file
-1. add a line or two to make sure it is working 
-1. set body margin to 0
-1. Click [here](chal-4.html) to see code
-
-# Challenge 5
-1. no extra html
-1. it must touch the top of the page
-1. font size 72px
-1. use colors #fff and #281b2d
-1. Click [here](chal-5.html) to see code
-
-# Challenge 6
-1. add the same class to both headers
-1. font size 48px
-1. use colors
-1. Click [here](chal-6.html) to see code
-
-
-# Challenge 7
-1. add extra html text
-1. give the new element a class
-1. change font color to white
-1. Click [here](chal-7.html) to see code
-
-# Challenge 8
-1. add extra html text
-1. give the new element a class
-1. change font color to white
+# CSS and Layout
+<br/> <img src ="https://img.shields.io/badge/html-ver5-blue"/> <br/> <img src = "https://img.shields.io/badge/css-ver3-blue"/>
 1. Click [here](chal-8.html) to see code
 
-# CSS Challenge
-1. Create a Landing Page
-1. Style Landing page
-1. Page can be found in csschal folder on repository
-1. Click [here](csschal/index.html) to see code
-
-# CSS Challenge 2
-1. Color Schemes with compound selector class selector
-1. Click [here](csschal/colorscheme.html) to see code
-
-# CSS Challenge 3 - Super-size Button
-1. Use Psuedo Class to change the behaviour of the button
-1. Page can be found in [here](csschal/buttons.html)
-
-# CSS Challenge 4 - Proper Spacing
-1. Used what was learned with box model to properly space items on the page
-1. Page can be found [here](csschal/properspacing.html)
-1. Style Sheet can be found [pro-styles.css](pro-styles.css)
-
-# CSS Challenge 5 - Blog Style
-1. Used what was learned with box model to properly space items on the page
+# Blog Style
+<br/> <img src ="https://img.shields.io/badge/html-ver5-blue"/> <br/> <img src = "https://img.shields.io/badge/css-ver3-blue"/>
 1. Page can be found by clicking the link [here](csschal/blog.html)
-1. Style Sheet can be found [blog-styles.css](csschal/blog-styles.css)
 
 # Javascript - Diary App
-1. Using Javascript, I was able to create a diary app to store diary entries. 
+<br/> <img src ="https://img.shields.io/badge/html-ver5-blue"/> <br/> <img src = "https://img.shields.io/badge/css-ver3-blue"/> <br/>
+<img src ="https://img.shields.io/badge/javascript-ES6-orange"/> 
 1. Click [here](csschal/index.html) to view the html
-1. Click [here](javascript/index.js) to view Javascript
-1. Click [here](javascript/diary.css) to view CSS used in the html
+
 
 # Javascript - Modal
-1. Using Javascript, I was able to create a modal using javascript. 
+<br/> <img src ="https://img.shields.io/badge/html-ver5-blue"/> <br/> <img src = "https://img.shields.io/badge/css-ver3-blue"/> <br/>
+<img src ="https://img.shields.io/badge/javascript-ES6-orange"/> 
 1. Click [here](modal/index.html) to view the html
-1.  Click [here](modal/modal.js) to view Javascript
-1. Click [here](modal/modal.css) to view CSS used in the html
 
-# Javascript - Search
-1. Using Javascript, I created a search box to search a list on the website 
+
+# Search
+<br/> <img src ="https://img.shields.io/badge/html-ver5-blue"/> <br/> <img src = "https://img.shields.io/badge/css-ver3-blue"/> <br/>
+<img src ="https://img.shields.io/badge/javascript-ES6-orange"/> 
 1. Click [here](search/index.html) to view the html
-1.  Click [here](search/index.js) to view Javascript
-1. Click [here](search/styles.css) to view CSS used in the html
 
-# Javascript - Dice Game
-1. Using Javascript, I created a dice game
-1. Click [here](dicegame/index.html) to view the html
-1.  Click [here](dicegame/index.js) to view Javascript
-1. Click [here](dicegame/styles.css) to view CSS used in the html
+#  Dice Game
+<br/> <img src ="https://img.shields.io/badge/html-ver5-blue"/> <br/> <img src = "https://img.shields.io/badge/css-ver3-blue"/> <br/>
+<img src ="https://img.shields.io/badge/javascript-ES6-orange"/> 
+1. 🎲 Click [here](dicegame/index.html) to play and may the odds be in your favor!
 
-# Javascript - Snake Game
-1. Using Javascript, I created a simple snake game
-1. Click [here](snakegame/index.html) to view the html
-1.  Click [here](snakegame/index.js) to view Javascript
-1. Click [here](snakegame/styles.css) to view CSS used in the html
 
-# Javascript/CSS/HTML 
-1. Using the above tools, I was able to create a reponsive splash page
+# Snake Game
+<br/> <img src ="https://img.shields.io/badge/html-ver5-blue"/> <br/> <img src = "https://img.shields.io/badge/css-ver3-blue"/> <br/>
+<img src ="https://img.shields.io/badge/javascript-ES6-orange"/> 
+1. Click [here](snakegame/index.html) to play the 🐍 game
+
+# Splash Page
+<br/> <img src ="https://img.shields.io/badge/html-ver5-blue"/> <br/> <img src = "https://img.shields.io/badge/css-ver3-blue"/> <br/>
+<img src ="https://img.shields.io/badge/javascript-ES6-orange"/> 
 1. Click [here](bbq/index.html) to view site 
 
+# Card Example
+<br/> <img src ="https://img.shields.io/badge/html-ver5-blue"/> <br/> <img src = "https://img.shields.io/badge/css-ver3-blue"/> <br/>
+<img src ="https://img.shields.io/badge/javascript-ES6-orange"/> 
+1. Click [here](card/index.html) to view site 
+
+# Carousel
+<br/> <img src ="https://img.shields.io/badge/html-ver5-blue"/> <br/> <img src = "https://img.shields.io/badge/css-ver3-blue"/> <br/>
+<img src ="https://img.shields.io/badge/javascript-ES6-orange"/> 
+1. Click [here](carousel/index.html) to view site 
+
+# User Profile
+<br/> <img src ="https://img.shields.io/badge/html-ver5-blue"/> <br/> <img src = "https://img.shields.io/badge/css-ver3-blue"/> <br/>
+<img src ="https://img.shields.io/badge/javascript-ES6-orange"/> 
+1. Click [here](userprofile/index.html) to view site 
 
