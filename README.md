@@ -12,7 +12,7 @@
 # Javascript - Diary App
 <br/> <img src ="https://img.shields.io/badge/html-ver5-blue"/> <br/> <img src = "https://img.shields.io/badge/css-ver3-blue"/> <br/>
 <img src ="https://img.shields.io/badge/javascript-ES6-orange"/> 
-1. Click [here](csschal/index.html) to view the html
+1. Click [here](javascript/index.html) to view the html
 
 
 # Javascript - Modal
