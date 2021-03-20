@@ -1,3 +1,31 @@
+//Variable to store html 
+let html = document.getElementById('root');
+html.innerHTML = `
+<div class="container">
+<span id="resetgame">Reset Game &#9746</span>
+<h1 id="message">Player 1 Turn</h1>
+<div class="players">
+	<div id="player1">
+		<h1>Score: 
+			<span id="player1Scoreboard">0</span>
+		</h1>
+		<img  src="images/dice-6.jpg" id="player1Dice" class="dice show">
+		<!-- <div id="player1Dice" class="dice">-</div> -->
+	</div>
+	<div id="player2">
+		<h1>Score: 
+			<span id="player2Scoreboard">0</span>
+		</h1>
+		<img  src="images/dice-6.jpg" id="player2Dice" class="dice show">
+		<!-- <div id="player2Dice" class="dice">-</div> -->
+	</div>
+</div>
+
+<button id="rollBtn">Roll Dice 🎲</button>
+<button id="resetBtn">Reset Game 🔁</button>
+</div>
+`
+
 //Create variables for the game states
 
 let player1 = {score:0,totalscore:0,player1turn:true};
