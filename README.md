@@ -1,8 +1,6 @@
 # Web development
-1. Collection of projects from my web dev course
-1. Each challenge has an html file with the source code
-1. eg. chal-1.html stands for the Challenge 1. 
-1. Instructions below each challenge tell what the challenge is about. 
+# Body of Work
+This is a collection of all the webapps and websites I have made throughout my career as a freelance developer
 
 # Challenge 1
 1. Create a basic html layout
