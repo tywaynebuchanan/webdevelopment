@@ -2,9 +2,6 @@
 # Body of Work
 This is a collection of all the webapps and websites I have made throughout my career as a freelance developer
 
-# Challenge 1
-1. Create a basic html layout
-1. Click [here](chal-1.html) to see code
 
 # Challenge 2
 1. Add an ordered list and an unordered list to the website
