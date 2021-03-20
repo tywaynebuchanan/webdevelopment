@@ -6,7 +6,7 @@
 
 # CSS and Layout
 ### `Tools:` 
-<img src ="https://img.shields.io/badge/javascript-ES6-orange"/> <br/> <img src ="https://img.shields.io/badge/javascript-ES6-orange"/>  <br/> <img src ="https://img.shields.io/badge/javascript-ES6-orange"/>
+<br/> <img src ="https://img.shields.io/badge/html-ver5-blue" <br/> <img src = "https://img.shields.io/badge/css-ver3-blue"/>
 1. Click [here](chal-8.html) to see code
 
 # Blog Style
@@ -15,6 +15,7 @@
 
 # Javascript - Diary App
 ### `Tools(HTML,CSS,JS)`
+<img src ="https://img.shields.io/badge/javascript-ES6-orange"/> 
 1.Click [here](csschal/index.html) to view the html
 
 
