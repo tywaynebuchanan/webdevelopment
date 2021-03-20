@@ -47,4 +47,7 @@
 <img src ="https://img.shields.io/badge/javascript-ES6-orange"/> 
 1. Click [here](card/index.html) to view site 
 
-
+# Carousel
+<br/> <img src ="https://img.shields.io/badge/html-ver5-blue"/> <br/> <img src = "https://img.shields.io/badge/css-ver3-blue"/> <br/>
+<img src ="https://img.shields.io/badge/javascript-ES6-orange"/> 
+1. Click [here](carousel/index.html) to view site 
