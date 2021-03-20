@@ -1,8 +1,8 @@
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+
 
 # Web development
 # Body of Work
-This is a collection of all the webapps and websites I have made throughout my career as a freelance developer
+-This is a collection of all the webapps and websites I have made throughout my career as a freelance developer
 
 # CSS and Layout
 ### `Tools(HTML,CSS)`
